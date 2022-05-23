@@ -7,5 +7,5 @@ export default defineConfig({
   routes: [{ path: '/', component: '@/pages/index' }],
   fastRefresh: {},
   title: "Daughter of the Void -- Kai'Sa",
-  favicon: './public/favicon.ico',
+  favicon: '/favicon.ico',
 });
