@@ -4,8 +4,8 @@ export default defineConfig({
   nodeModulesTransform: {
     type: 'none',
   },
-  routes: [
-    { path: '/', component: '@/pages/index' },
-  ],
+  routes: [{ path: '/', component: '@/pages/index' }],
   fastRefresh: {},
+  title: "Daughter of the Void -- Kai'Sa",
+  favicon: './public/favicon.ico',
 });
